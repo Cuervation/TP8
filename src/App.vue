@@ -1,7 +1,7 @@
 <template>
   <div class="container-fluid mt-3">
     <div class="jumbotron">
-      <h1>Trabajo Práctico N° 7</h1>
+      <h1>Trabajo Práctico N° 8</h1>
       <br>
       <Navbar />
       <router-view></router-view>
